@@ -1,0 +1,12 @@
+public class javinha 
+int num teste;
+int num t@ste2;
+{
+	
+	if(teste || teste2 | teste2 ){\\
+	teste2 = t&ste2+1;
+	teste = 55.0;
+	printf("dasdada";
+	teste2 = 52+ teste;
+	};/*dasdadada
+}

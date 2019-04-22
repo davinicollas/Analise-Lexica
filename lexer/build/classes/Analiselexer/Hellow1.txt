@@ -1,0 +1,12 @@
+program javinha 
+
+num teste;
+
+num teste2;
+	
+{
+	teste = -55 ;
+
+	teste2 = 10.0 + teste;
+
+}

@@ -1,0 +1,12 @@
+public class javinha 
+int num teste;
+int num teste2;
+{
+
+	while(teste < teste2 ){
+	teste2 = teste2+1 ;
+	teste = -55 ;
+	""
+	teste2 = 52 + teste;
+	};
+}
